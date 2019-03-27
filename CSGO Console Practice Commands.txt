@@ -1,0 +1,16 @@
+shoooting vs bots
+
+sv_cheats 1; sv_showimpacts 0 ; sv_grenade_trajectory 1; sv_infinite_ammo 1; mp_maxmoney 50000; mp_startmoney 50000; mp_freezetime 1; mp_roundtime_defuse 60; mp_buy_anywhere 1; mp_buytime 9999; bot_kick; bind z noclip; mp_autoteambalance 0; mp_limitteams 10; bot_zombie 1
+
+practicing nades
+
+sv_cheats 1; sv_showimpacts 2; sv_grenade_trajectory 1; sv_infinite_ammo 1; mp_maxmoney 50000; mp_startmoney 50000; mp_freezetime 1; mp_roundtime_defuse 60; mp_buy_anywhere 1; mp_buytime 9999; bind z noclip; mp_autoteambalance 0
+
+
+show damage
+sv_cheats 1; sv_showimpacts 2 ; sv_grenade_trajectory 1; sv_infinite_ammo 1; mp_maxmoney 50000; mp_startmoney 50000; mp_freezetime 1; mp_roundtime_defuse 60; mp_buy_anywhere 1; mp_buytime 9999; bind z noclip; mp_autoteambalance 0; developer "1"; con_filter_text "Damage"; con_filter_text_out "Player:"; con_filter_enable "2"
+
+
+
+bhop
+sv_cheats 1 ;sv_enablebunnyhopping 1 ;sv_autobunnyhopping 1 ;sv_staminamax 0 ;sv_staminajumpcost 0 ;sv_staminalandcost 0 ;sv_staminarecoveryrate 0 ;sv_airaccelerate 12000 ;sv_accelerate_use_weapon_speed 0 ;sv_maxvelocity 9000
